@@ -1,9 +1,11 @@
 JuicyChain Installation and Onboarding
+
 Welcome!
 
 So you want to install our product but don’t know where to start, worry not, this is why we have this document, to guide you through the setup of our node. 
 
 Prerequisites
+
 First of all, can you run it? Well the prerequisites are not that demanding, let’s hope so.
 Hardware requirements
 
